@@ -1,0 +1,13 @@
+all copyrights belongs to authors of those graphics
+
+platform:
+<a href="https://www.freepik.com/free-vector/cartoon-style-stone-texture_1076785.htm">Image by 0melapics</a> on Freepik
+
+skybox:
+https://learnopengl.com/Advanced-OpenGL/Cubemaps
+
+lava:
+https://www.facebook.com/DragonDashGame/photos/a.214222262016200/214222542016172/
+
+brick wall:
+https://www.vecteezy.com/vector-art/6331974-stone-wall-from-bricks-rock-game-background-in-cartoon-style-seamless-textured-surface-ui-game-asset-road-or-floor-material-vector-illustration
